@@ -55,7 +55,6 @@ for file in os.listdir(folder_path):
 # Convert to DataFrame
 df = pd.DataFrame(metadata)
 
-# Save to CSV
 df.to_csv(output_csv, index=False)
 
 print(f"TTS Metadata extracted and saved to {output_csv}!")
