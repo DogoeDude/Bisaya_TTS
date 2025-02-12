@@ -5,11 +5,11 @@ import numpy as np
 from tqdm import tqdm  # For progress bar
 
 # Input and output directories
-input_folder = "custom_data"   # Change this to your folder path
-output_folder = "outputs/slowdown" # Change this to where you want the output
+input_folder = "outputs/slowdown"   # Change this to your folder path
+output_folder = "outputs/mixed" # Change this to where you want the output
 
 os.makedirs(output_folder, exist_ok=True)
-speed_factor = 0.5 
+speed_factor = 1.5 #recent
 
 # Process all WAV files
 for file in tqdm(os.listdir(input_folder), desc="Processing Audio"):
