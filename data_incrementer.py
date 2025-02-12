@@ -1,8 +1,8 @@
 import os
 
-folder_path = "custom_data" 
+folder_path = "Magarin_Recordings" 
 
-i = 31
+i = 78
 
 files = sorted(f for f in os.listdir(folder_path) if f[:2].isdigit())
 
