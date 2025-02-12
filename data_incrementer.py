@@ -1,8 +1,8 @@
 import os
 
-folder_path = "Magarin_Recordings" 
+folder_path = "outputs/mixed" 
 
-i = 78
+i = 1
 
 files = sorted(f for f in os.listdir(folder_path) if f[:2].isdigit())
 
