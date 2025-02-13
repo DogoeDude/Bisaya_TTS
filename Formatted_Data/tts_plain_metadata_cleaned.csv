@@ -1,0 +1,125 @@
+Filename,Transcription,Sample Rate (Hz),Channels,Bit Depth,Number of Samples,Duration (s),File Size (bytes),Peak Amplitude,RMS Amplitude
+001_maayong_buntag.wav,Maayong Buntag,44100,2,16,49152,1.11,196652,0.0327,0.0069
+002_kamusta_ka.wav,Kamusta Ka,44100,2,16,41472,0.94,165932,0.0671,0.0101
+003_salamat_sa_imong_tabang.wav,Salamat Sa Imong Tabang,44100,2,16,67339,1.53,269400,0.0574,0.0106
+004_maayong_gabie.wav,Maayong Gabie,44100,2,16,53904,1.22,215660,0.065,0.0147
+005_palihug_tabangi_ko.wav,Palihug Tabangi Ko,44100,2,16,75706,1.72,302868,0.0593,0.0113
+006_asa_ka_padulong.wav,Asa Ka Padulong,44100,2,16,62995,1.43,252024,0.0934,0.0087
+007_kinsa_imong_kuyog.wav,Kinsa Imong Kuyog,44100,2,16,62405,1.42,249664,0.0762,0.0143
+008_asa_dapit_ang_jeepney_stop.wav,Asa Dapit Ang Jeepney Stop,44100,2,16,89062,2.02,356292,0.0761,0.0087
+009_pila_an_plete_padulong_sa_cogon_bai.wav,Pila An Plete Padulong Sa Cogon Bai,44100,2,16,97026,2.2,388148,0.0843,0.0104
+010_pag_andam_na_sa_bayad.wav,Pag Andam Na Sa Bayad,44100,2,16,68787,1.56,275192,0.2792,0.018
+011_toguti_ko_nga_moagi.wav,Toguti Ko Nga Moagi,44100,2,16,65891,1.49,263608,0.0835,0.0098
+012_naa_ba_y_shortcut_padulong_sa_skwelahan.wav,Naa Ba Y Shortcut Padulong Sa Skwelahan,44100,2,16,94854,2.15,379460,0.039,0.0053
+013_ang_aplikasyon_nagkinahanglan_og_update.wav,Ang Aplikasyon Nagkinahanglan Og Update,44100,2,16,121243,2.75,485016,0.1441,0.0137
+014_gamiton_nako_ang_mapa_sa_app.wav,Gamiton Nako Ang Mapa Sa App,44100,2,16,81499,1.85,326040,0.1785,0.0177
+015_palihug_i-enable_ang_GPS.wav,Palihug I-enable Ang Gps,44100,2,16,105547,2.39,422232,0.1081,0.0122
+016_naa_kay_internet_connection.wav,Naa Kay Internet Connection,44100,2,16,62741,1.42,251008,0.105,0.0118
+017_unsa_imong_password_sa_wifi.wav,Unsa Imong Password Sa Wifi,44100,2,16,66114,1.5,264500,0.1432,0.0131
+018_ang_akong_research_naghisgot_mahitungod_sa_AI.wav,Ang Akong Research Naghisgot Mahitungod Sa Ai,44100,2,16,132262,3.0,529092,0.0553,0.0079
+019_kining_teknolohiya_makatabang_sa_edukasyon.wav,Kining Teknolohiya Makatabang Sa Edukasyon,44100,2,16,121545,2.76,486224,0.0577,0.0079
+020_nagkinahanglan_kami_og_daghang_datos.wav,Nagkinahanglan Kami Og Daghang Datos,44100,2,16,116961,2.65,467888,0.0662,0.0094
+021_ang_transfer_learning_makatabang_sa_low-resource_languages.wav,Ang Transfer Learning Makatabang Sa Low-resource Languages,44100,2,16,169056,3.83,676268,0.0781,0.0114
+022_unsay_buhaton_sa_model_kung_walay_igo_nga_datos.wav,Unsay Buhaton Sa Model Kung Walay Igo Nga Datos,44100,2,16,179571,4.07,718328,0.1043,0.0102
+023_usa.wav,Usa,44100,2,16,31859,0.72,127480,0.0799,0.0128
+024_duha.wav,Duha,44100,2,16,28239,0.64,113000,0.1737,0.0255
+025_tulo.wav,Tulo,44100,2,16,29688,0.67,118796,0.0381,0.0081
+026_upat.wav,Upat,44100,2,16,20736,0.47,82988,0.0753,0.009
+027_lima.wav,Lima,44100,2,16,25343,0.57,101416,0.0439,0.0099
+028_pito_ka_kilometro.wav,Pito Ka Kilometro,44100,2,16,70235,1.59,280984,0.1041,0.0085
+029_napulo_ka_minuto.wav,Napulo Ka Minuto,44100,2,16,59375,1.35,237544,0.0642,0.0093
+030_akong_pangalan_kay_leandro.wav,Akong Pangalan Kay Leandro,44100,2,16,76029,1.72,304160,0.0553,0.0056
+031_kung_musakay_ko_ug_jeepney_kanunay_ko_mag_andam_ug_saktong_plite.wav,Kung Musakay Ko Ug Jeepney Kanunay Ko Mag Andam Ug Saktong Plite,48000,2,16,241664,5.03,966734,0.5389,0.0765
+032_mag_praktis_ko_sa_akoang_pronounciation_aron_mas_tinaw_akoang_tingog.wav,Mag Praktis Ko Sa Akoang Pronounciation Aron Mas Tinaw Akoang Tingog,48000,2,16,231424,4.82,925774,0.6379,0.0862
+033_sadyang_bata_pako_ganahan_kaayo_ko_magduwa_sa_gawas.wav,Sadyang Bata Pako Ganahan Kaayo Ko Magduwa Sa Gawas,48000,2,16,184320,3.84,737358,0.7553,0.1097
+034_nagkaton_ko_ug_laing_sinultian_aron_makasabot_ko_ug_laing_laing_kultura.wav,Nagkaton Ko Ug Laing Sinultian Aron Makasabot Ko Ug Laing Laing Kultura,48000,2,16,289792,6.04,1159246,0.5127,0.0734
+035_dili_sayon_ang_pagkat-on_ug_skills_apan_kailangan_lang_ug_pasensya.wav,Dili Sayon Ang Pagkat-on Ug Skills Apan Kailangan Lang Ug Pasensya,48000,2,16,288768,6.02,1155150,0.9846,0.0994
+036_ang_katong_paboritong_kanta_kai_makaparelaks_ug_makawala_sa_stress.wav,Ang Katong Paboritong Kanta Kai Makaparelaks Ug Makawala Sa Stress,48000,2,16,270336,5.63,1081422,0.8059,0.1008
+037_dako_ug_tabang_ang_teknolohiya_sa_atong_adlaw-adlaw_na_kinabuhi.wav,Dako Ug Tabang Ang Teknolohiya Sa Atong Adlaw-adlaw Na Kinabuhi,48000,2,16,204800,4.27,819278,0.7333,0.1062
+038_Mas_maayo_nga_magpraktis_sa_paglitok_sa_mga_pulong_para_mas_klaro.wav,Mas Maayo Nga Magpraktis Sa Paglitok Sa Mga Pulong Para Mas Klaro,48000,2,16,258048,5.38,1032270,0.7637,0.1008
+039_Dugay_na_ko_wala_kabisita_sa_akong_mga_higala_sa_pikas_barangay.wav,Dugay Na Ko Wala Kabisita Sa Akong Mga Higala Sa Pikas Barangay,48000,2,16,204800,4.27,819278,0.6903,0.0935
+040_Nindot_ang_pagbiyahe_sa_probinsya_kay_presko_ang_hangin_ug_daghan_kahoy.wav,Nindot Ang Pagbiyahe Sa Probinsya Kay Presko Ang Hangin Ug Daghan Kahoy,48000,2,16,250880,5.23,1003598,0.4524,0.0698
+041_Sa_dihang_niadtong_gabii_nakadungog_ko_og_kusog_nga_ulan.wav,Sa Dihang Niadtong Gabii Nakadungog Ko Og Kusog Nga Ulan,48000,2,16,221184,4.61,884814,0.5376,0.0858
+042_Nagtuon_ko_og_programming_kay_gusto_nako_makahimo_og_akong_kaugalingong_app.wav,Nagtuon Ko Og Programming Kay Gusto Nako Makahimo Og Akong Kaugalingong App,48000,2,16,286720,5.97,1146958,0.5363,0.0785
+043_Ang_akong_paboritong_prutas_kay_mangga_kay_tam-is_ug_lami_kaayo.wav,Ang Akong Paboritong Prutas Kay Mangga Kay Tam-is Ug Lami Kaayo,48000,2,16,244736,5.1,979022,0.6292,0.0798
+044_Ang_iring_sa_among_balay_kay_kanunay_magduwa_sa_among_garden.wav,Ang Iring Sa Among Balay Kay Kanunay Magduwa Sa Among Garden,48000,2,16,211968,4.42,847950,0.4946,0.0788
+045_Kada_buntag_mokaon_ko_og_pan_ug_inom_ko_og_kape.wav,Kada Buntag Mokaon Ko Og Pan Ug Inom Ko Og Kape,48000,2,16,211968,4.42,847950,0.4354,0.0697
+046_Ang_among_iro_kay_kasagaran_matulog_sa_ilawom_sa_lamesa.wav,Ang Among Iro Kay Kasagaran Matulog Sa Ilawom Sa Lamesa,48000,2,16,228352,4.76,913486,0.6759,0.0704
+047_Unsa_may_imong_paboritong_libro_nga_imong_nabasa.wav,Unsa May Imong Paboritong Libro Nga Imong Nabasa,48000,2,16,189440,3.95,757838,0.4546,0.08
+048_Ang_akong_lolo_kay_daghan_og_istorya_mahitungod_sa_ilang_panahon_sauna.wav,Ang Akong Lolo Kay Daghan Og Istorya Mahitungod Sa Ilang Panahon Sauna,48000,2,16,260096,5.42,1040462,0.4152,0.0754
+049_Gusto_ko_moadto_sa_dagat_ug_maglangoy_sa_limpyo_nga_tubig.wav,Gusto Ko Moadto Sa Dagat Ug Maglangoy Sa Limpyo Nga Tubig,48000,2,16,204800,4.27,819278,0.5569,0.0711
+050_Nag-ulan_og_kusog_kagabii_mao_nga_bugnaw_ang_panahon_karon.wav,Nag-ulan Og Kusog Kagabii Mao Nga Bugnaw Ang Panahon Karon,48000,2,16,225280,4.69,901198,0.4641,0.0781
+051_Ang_kahoy_sa_among_likod_balay_kay_daghan_og_bunga_nga_hinog_na.wav,Ang Kahoy Sa Among Likod Balay Kay Daghan Og Bunga Nga Hinog Na,48000,2,16,228352,4.76,913486,0.5606,0.0826
+052_Nindot_kaayo_ang_view_sa_bukid_labi_na_kung_mosubang_na_ang_adlaw.wav,Nindot Kaayo Ang View Sa Bukid Labi Na Kung Mosubang Na Ang Adlaw,48000,2,16,319488,6.66,1278030,0.65,0.0763
+053_Nag-andam_ko_og_sud-an_para_sa_among_panihapon_karong_gabi.wav,Nag-andam Ko Og Sud-an Para Sa Among Panihapon Karong Gabi,48000,2,16,169984,3.54,680014,0.4893,0.0714
+054_Kung_magbaha_mas_maayo_nga_magpabilin_lang_sa_balay_para_luwas.wav,Kung Magbaha Mas Maayo Nga Magpabilin Lang Sa Balay Para Luwas,48000,2,16,258048,5.38,1032270,0.4417,0.0706
+055_Ang_bisikleta_kay_maayo_nga_pamaagi_sa_pag-ehersisyo.wav,Ang Bisikleta Kay Maayo Nga Pamaagi Sa Pag-ehersisyo,48000,2,16,212992,4.44,852046,0.779,0.0976
+056_Kanunay_kong_nagbasa_og_libro_matag_gabii_aron_masayod_ko_og_bag-ong_mga_butang..wav,Kanunay Kong Nagbasa Og Libro Matag Gabii Aron Masayod Ko Og Bag-ong Mga Butang.,48000,2,16,285696,5.95,1142862,0.7893,0.1117
+057_Kung_gusto_ka_mahimong_maayong_magtatambag_kinahanglan_nga_maminaw_ka_sa_uban..wav,Kung Gusto Ka Mahimong Maayong Magtatambag Kinahanglan Nga Maminaw Ka Sa Uban.,48000,2,16,264192,5.5,1056846,0.8297,0.1146
+058_Ang kahoy nagapadaku sa ilang sanga ug nagahatag og landong sa init nga adlaw.wav,Ang kahoy nagapadaku sa ilang sanga ug nagahatag og landong sa init nga adlaw,48000,2,16,293888,6.12,1175630,0.8527,0.1062
+059_Gusto_ko_moadto_sa_taas_nga_bungtod_aron_makita_ang_nindot_nga_tan-awon.wav,Gusto Ko Moadto Sa Taas Nga Bungtod Aron Makita Ang Nindot Nga Tan-awon,48000,2,16,228352,4.76,913486,0.659,0.0886
+060_Dili_kinahanglan_nga_magdali-dali_sa_pagbuhat_sa_usa_ka_desisyon.wav,Dili Kinahanglan Nga Magdali-dali Sa Pagbuhat Sa Usa Ka Desisyon,48000,2,16,203776,4.25,815182,0.6996,0.0959
+061_Kung_maglakaw_ta_sa_dalan_kinahanglan_nga_magmatngon_sa_mga_sakyanan.wav,Kung Maglakaw Ta Sa Dalan Kinahanglan Nga Magmatngon Sa Mga Sakyanan,48000,2,16,247808,5.16,991310,0.7049,0.1094
+062_Ang dagat kay malinawon ug ang mga balud nagahumok sa baybayon.wav,Ang dagat kay malinawon ug ang mga balud nagahumok sa baybayon,48000,2,16,256000,5.33,1024078,0.9119,0.1053
+063_Ang_usa_ka_maayong_kinaiya_mao_ang_pagpakita_og_respeto_sa_uban.wav,Ang Usa Ka Maayong Kinaiya Mao Ang Pagpakita Og Respeto Sa Uban,48000,2,16,228352,4.76,913486,0.7438,0.0841
+064_Ang teknolohiya nagapauswag sa atong pamaagi sa pagtrabaho ug komunikasyon..wav,Ang teknolohiya nagapauswag sa atong pamaagi sa pagtrabaho ug komunikasyon.,48000,2,16,294912,6.14,1179726,0.9091,0.1039
+065_Ang_akong_damgo_mao_ang_makabiyahe_sa_lain-laing_mga_nasod..wav,Ang Akong Damgo Mao Ang Makabiyahe Sa Lain-laing Mga Nasod.,48000,2,16,228352,4.76,913486,0.7818,0.0928
+066_Ang_atong_kalibotan_puno_og_katahom_nga_dapat_natong_ampingan.wav,Ang Atong Kalibotan Puno Og Katahom Nga Dapat Natong Ampingan,48000,2,16,212992,4.44,852046,0.7354,0.0871
+067_Sa_pagkat-on_sa_bag-ong_sinultian_importante_ang_pagpraktis_matag-adlaw.wav,Sa Pagkat-on Sa Bag-ong Sinultian Importante Ang Pagpraktis Matag-adlaw,48000,2,16,220160,4.59,880718,0.7472,0.0803
+068_Nagtuon_ko_og_matematika_kay_gusto_nako_masabtan_ang_mga_numero_og_ekwasyon..wav,Nagtuon Ko Og Matematika Kay Gusto Nako Masabtan Ang Mga Numero Og Ekwasyon.,48000,2,16,233472,4.86,933966,0.5475,0.0746
+069_Sa_buntag_makadungog_ko_sa_mga_langgam_nga_nagkanta_sa_gawas..wav,Sa Buntag Makadungog Ko Sa Mga Langgam Nga Nagkanta Sa Gawas.,48000,2,16,194560,4.05,778318,0.7414,0.0896
+070_Kung_maghimo_ka_og_desisyon_siguroha_nga_imo_kining_hunahunaon_pag-ayo..wav,Kung Maghimo Ka Og Desisyon Siguroha Nga Imo Kining Hunahunaon Pag-ayo.,48000,2,16,290816,6.06,1163342,0.6768,0.0849
+071_Ang_pagsabot_sa_laing_kultura_makatabang_sa_atong_pagsinabtanay..wav,Ang Pagsabot Sa Laing Kultura Makatabang Sa Atong Pagsinabtanay.,48000,2,16,203776,4.25,815182,0.6816,0.0773
+072_Ang_tubig_sa_suba_kay_klaro_kaayo_ug_makita_nimo_ang_mga_isda_nga_naglangoy.wav,Ang Tubig Sa Suba Kay Klaro Kaayo Ug Makita Nimo Ang Mga Isda Nga Naglangoy,48000,2,16,279552,5.82,1118286,0.8808,0.0845
+073_Gusto_ko_mokaon_og_lechon_kung_aduna’y_fiesta_sa_among_lugar.wav,Gusto Ko Mokaon Og Lechon Kung Aduna’y Fiesta Sa Among Lugar,48000,2,16,168960,3.52,675918,0.6572,0.0837
+074_Ang_among_pamilya_kanunay_magtapok_matag_Domingo_para_magkaon_og_panihapon.wav,Ang Among Pamilya Kanunay Magtapok Matag Domingo Para Magkaon Og Panihapon,48000,2,16,251904,5.25,1007694,0.7291,0.0811
+075_Ang_pagsulat_og_istorya_makatabang_sa_pagpaambit_sa_imong_mga_hunahuna.wav,Ang Pagsulat Og Istorya Makatabang Sa Pagpaambit Sa Imong Mga Hunahuna,48000,2,16,256000,5.33,1024078,0.7758,0.0827
+076_Ang_akong_paboritong_bulan_sa_tuig_kay_Disyembre_kay_bugnaw_ang_panahon.wav,Ang Akong Paboritong Bulan Sa Tuig Kay Disyembre Kay Bugnaw Ang Panahon,48000,2,16,219136,4.57,876622,0.645,0.0807
+077_Ang_akong_damgo_mao_ang_mahimong_usa_ka_maayong_inhenyero_sa_umaabot.wav,Ang Akong Damgo Mao Ang Mahimong Usa Ka Maayong Inhenyero Sa Umaabot,48000,2,16,414720,8.64,1658958,0.6005,0.0842
+078_kadtong_tawo_nga_nagbarog_sa_kilid_sa_dalan_gahapon_kay_akong_igsuon_nga_gikan_sa_Manila.wav,Kadtong Tawo Nga Nagbarog Sa Kilid Sa Dalan Gahapon Kay Akong Igsuon Nga Gikan Sa Manila,46050,2,16,192000,8.32,768078,0.1046,0.0093
+079_kung_moabot_ka_sa_among_balay_karong_gabii_pangandam_ko_og_espesyal_nga_panihapon_para_nimo.wav,Kung Moabot Ka Sa Among Balay Karong Gabii Pangandam Ko Og Espesyal Nga Panihapon Para Nimo,46050,2,16,192000,8.04,768078,0.0775,0.01
+080_ang_among_silingan_kanunay_maghimo_og_saba_kada_gabii_mao_nga_dili_ko_katulog_og_tarong.wav,Ang Among Silingan Kanunay Maghimo Og Saba Kada Gabii Mao Nga Dili Ko Katulog Og Tarong,46050,2,16,192000,11.01,768078,0.1205,0.0088
+081_dili_ko_kasabot_nganon_wala_ka_motunga_sa_among_kasal_bisan_pa_man_og_gidapit_tika.wav,Dili Ko Kasabot Nganon Wala Ka Motunga Sa Among Kasal Bisan Pa Man Og Gidapit Tika,46050,2,16,192000,8.94,768078,0.1324,0.0103
+082_ang_among_anak_nakadaog_sa_contest_sa_eskwelahan_tungod_sa_iyang_maanindot_nga_tingog.wav,Ang Among Anak Nakadaog Sa Contest Sa Eskwelahan Tungod Sa Iyang Maanindot Nga Tingog,46050,2,16,192000,9.39,768078,0.1083,0.0099
+083_ang_among_supervisor_dili_mouyon_sa_akong_sugyot_bisan_pa_og_kini_makahatag_og_dakong_benepisyo_sa_kompanya.wav,Ang Among Supervisor Dili Mouyon Sa Akong Sugyot Bisan Pa Og Kini Makahatag Og Dakong Benepisyo Sa Kompanya,46050,2,16,192000,10.6,768078,0.1322,0.0112
+084_kinahanglan_nakong_matapos_kining_tanan_nga_mga_papeles_sa_dili_pa_mahuman_ang_semana_aron_dili_ko_mapakyas.wav,Kinahanglan Nakong Matapos Kining Tanan Nga Mga Papeles Sa Dili Pa Mahuman Ang Semana Aron Dili Ko Mapakyas,46050,2,16,192000,10.37,768078,0.0995,0.0099
+085_ang_akong_kauban_sa_trabaho_kanunay_nga_mogawas_sa_opisina_nga_wala.wav,Ang Akong Kauban Sa Trabaho Kanunay Nga Mogawas Sa Opisina Nga Wala,46050,2,16,192000,9.9,768078,0.1307,0.0114
+086_dugay_na_kaayo_kong_nagtrabaho_dinhi_sa_kompanya_pero_wala_gihapon.wav,Dugay Na Kaayo Kong Nagtrabaho Dinhi Sa Kompanya Pero Wala Gihapon,46050,2,16,192000,8.96,768078,0.1331,0.0129
+087_ang_bag-ong_empleyado_mas_paspas_motrabaho_kaysa_sa_mga_dugay_na_dinhi.wav,Ang Bag-ong Empleyado Mas Paspas Motrabaho Kaysa Sa Mga Dugay Na Dinhi,46050,2,16,192000,8.75,768078,0.1246,0.0113
+088_ang_akong_mga_ginikanan_dili_mouyon_sa_among_relasyon_tungod_kay_lahi_among_relihiyon.wav,Ang Akong Mga Ginikanan Dili Mouyon Sa Among Relasyon Tungod Kay Lahi Among Relihiyon,46050,2,16,192000,10.86,768078,0.1281,0.0124
+089_kada_adlaw_ang_akong_asawa_motawag_nako_sa_opisina_aron_mangutana_kung_naunsa_na_ko.wav,Kada Adlaw Ang Akong Asawa Motawag Nako Sa Opisina Aron Mangutana Kung Naunsa Na Ko,46050,2,16,192000,10.41,768078,0.0978,0.0101
+090_ang_among_mga_anak_magdula_sa_garden_kada_hapon_human_sa_ilang_homework.wav,Ang Among Mga Anak Magdula Sa Garden Kada Hapon Human Sa Ilang Homework,46050,2,16,192000,7.74,768078,0.0807,0.0079
+091_ang_akong_igsuon_nga_naa_sa_America_kanunay_magpadala_og_mga_regalo_para_sa_among_pamilya.wav,Ang Akong Igsuon Nga Naa Sa America Kanunay Magpadala Og Mga Regalo Para Sa Among Pamilya,46050,2,16,192000,8.06,768078,0.1026,0.0091
+092_gusto_nako_nga_makakita_og_trabaho_sa_siyudad_aron_makatabang_ko_sa_akong_pamilya_sa_probinsya.wav,Gusto Nako Nga Makakita Og Trabaho Sa Siyudad Aron Makatabang Ko Sa Akong Pamilya Sa Probinsya,46050,2,16,192000,10.2,768078,0.0971,0.0097
+093_ang_among_maestra_gahatag_kanamo_og_daghan_kaayong_homework_nga_dili_na_mi_katulog_og_sayo.wav,Ang Among Maestra Gahatag Kanamo Og Daghan Kaayong Homework Nga Dili Na Mi Katulog Og Sayo,46050,2,16,192000,10.47,768078,0.1239,0.0086
+094_kinahanglan_kong_magtuon_og_maayo_karong_semanaha_tungod_kay_naay_importante_nga_eksam_sa_sunod_semana.wav,Kinahanglan Kong Magtuon Og Maayo Karong Semanaha Tungod Kay Naay Importante Nga Eksam Sa Sunod Semana,46050,2,16,192000,10.94,768078,0.1083,0.0083
+095_ang_akong_manghod_nakadawat_og_scholarship_sa_usa_ka_inila_nga_unibersidad_sa_Manila.wav,Ang Akong Manghod Nakadawat Og Scholarship Sa Usa Ka Inila Nga Unibersidad Sa Manila,46050,2,16,192000,9.19,768078,0.1193,0.011
+096_ang_among_eskwelahan_adunay_bag-ong_library_nga_kompleto_sa_mga_libro_ug_computers.wav,Ang Among Eskwelahan Adunay Bag-ong Library Nga Kompleto Sa Mga Libro Ug Computers,46050,2,16,192000,8.9,768078,0.1012,0.0105
+097_lisod_kaayo_ang_mathematics_pero_kinahanglan_gyud_nakong_makapasar_aron_mahuman_ko.wav,Lisod Kaayo Ang Mathematics Pero Kinahanglan Gyud Nakong Makapasar Aron Mahuman Ko,46050,2,16,192000,9.13,768078,0.0993,0.0084
+098_ang_tindahan_sa_eskina_nagpamaligya_og_barato_nga_mga_butang_pero_dili_kaayo_maayo_ang_kalidad.wav,Ang Tindahan Sa Eskina Nagpamaligya Og Barato Nga Mga Butang Pero Dili Kaayo Maayo Ang Kalidad,46050,2,16,192000,10.75,768078,0.0909,0.0083
+099_kinahanglan_kong_mopalit_og_bag-ong_cellphone_kay_nadaut_ang_akoa_sa_pagkahulog_sa_swimming_pool.wav,Kinahanglan Kong Mopalit Og Bag-ong Cellphone Kay Nadaut Ang Akoa Sa Pagkahulog Sa Swimming Pool,46050,2,16,192000,9.77,768078,0.1463,0.0111
+100_ang_among_negosyo_sa_pagpamaligya_og_isda_nagmalampuson_tungod_sa_among_daghang_suki.wav,Ang Among Negosyo Sa Pagpamaligya Og Isda Nagmalampuson Tungod Sa Among Daghang Suki,46050,2,16,192000,9.96,768078,0.105,0.0092
+101_ang_tag-iya_sa_mall_nagdesisyon_nga_magbuhat_og_bag-ong_parking_area_para_sa_mga_customers.wav,Ang Tag-iya Sa Mall Nagdesisyon Nga Magbuhat Og Bag-ong Parking Area Para Sa Mga Customers,46050,2,16,192000,9.15,768078,0.1006,0.0095
+102_kada_adlaw_mopalit_ko_og_pan_sa_among_silingan_nga_bakery_kay_lami_kaayo_ilang_tinapay.wav,Kada Adlaw Mopalit Ko Og Pan Sa Among Silingan Nga Bakery Kay Lami Kaayo Ilang Tinapay,46050,2,16,192000,9.96,768078,0.0975,0.0091
+103_ang_doktor_niingon_nga_kinahanglan_kong_mag_ehersisyo_kada_adlaw_ug_maglikay_sa_mga_tam-is_nga_pagkaon.wav,Ang Doktor Niingon Nga Kinahanglan Kong Mag Ehersisyo Kada Adlaw Ug Maglikay Sa Mga Tam-is Nga Pagkaon,46050,2,16,192000,12.8,768078,0.0721,0.0077
+104_ang_akong_lola_adunay_high_blood_pressure_mao_nga_kinahanglan_siyang_moinom_og_tambal_kada_adlaw.wav,Ang Akong Lola Adunay High Blood Pressure Mao Nga Kinahanglan Siyang Moinom Og Tambal Kada Adlaw,46050,2,16,192000,9.45,768078,0.0916,0.0078
+105_kada_buntag_mobangon_ko_og_sayo_aron_makalakaw-lakaw_sa_park_para_sa_akong_kahimsog.wav,Kada Buntag Mobangon Ko Og Sayo Aron Makalakaw-lakaw Sa Park Para Sa Akong Kahimsog,46050,2,16,192000,9.83,768078,0.0984,0.0102
+106_ang_among_barangay_health_center_naghatag_og_libre_nga_check-up_para_sa_tanang_mga_bata.wav,Ang Among Barangay Health Center Naghatag Og Libre Nga Check-up Para Sa Tanang Mga Bata,46050,2,16,192000,8.75,768078,0.0985,0.0085
+107_tungod_sa_akong_sakit_sa_tiyan_dili_na_ko_kakaon_og_mga_pagkaong_daghan_og_sili.wav,Tungod Sa Akong Sakit Sa Tiyan Dili Na Ko Kakaon Og Mga Pagkaong Daghan Og Sili,46050,2,16,192000,8.06,768078,0.0546,0.0065
+108_lage_muadto_nakog_mercado.wav,Lage Muadto Nakog Mercado,44100,2,16,184987,4.19,739992,0.1661,0.0219
+109_asa_diay_ka_nagpuyo_karun.wav,Asa Diay Ka Nagpuyo Karun,44100,2,16,133787,3.03,535192,0.2435,0.0187
+110_nagpuyo_ko_sa_lapasan.wav,Nagpuyo Ko Sa Lapasan,44100,2,16,129947,2.95,519832,0.2023,0.0219
+111_nganong_niabot_sad_ka_dira_tanawa_unsay_nahitabo_saimoha_karun.wav,Nganong Niabot Sad Ka Dira Tanawa Unsay Nahitabo Saimoha Karun,44100,2,16,210944,4.78,843820,0.1189,0.0197
+112_kung_ang_iro_gadagan_gaunsa_lugar_ang_langgam.wav,Kung Ang Iro Gadagan Gaunsa Lugar Ang Langgam,44100,2,16,241947,5.49,967832,0.1353,0.0155
+113_sulod_na_sa_klase_dong_late_na_kaayo_ka.wav,Sulod Na Sa Klase Dong Late Na Kaayo Ka,44100,2,16,165787,3.76,663192,0.1216,0.0133
+114_unsa_imo_pamati_karun_maayo_raba.wav,Unsa Imo Pamati Karun Maayo Raba,44100,2,16,204187,4.63,816792,0.0572,0.0085
+115_unsa_imong_ganahan.wav,Unsa Imong Ganahan,44100,2,16,117787,2.67,471192,0.1003,0.0155
+116_palihug_tabanga_kog_dala_ani.wav,Palihug Tabanga Kog Dala Ani,44100,2,16,180507,4.09,722072,0.1519,0.0149
+117_unsa_imong_plano_karung_adlawa.wav,Unsa Imong Plano Karung Adlawa,44100,2,16,149787,3.4,599192,0.1032,0.0145
+118_asa_dapit_ang_simbahan.wav,Asa Dapit Ang Simbahan,44100,2,16,132507,3.0,530072,0.2059,0.0164
+119_daghan_kaayong_salamat.wav,Daghan Kaayong Salamat,44100,2,16,142747,3.24,571032,0.0506,0.008
+120_ganahan_ko_maminaw_ug_musika.wav,Ganahan Ko Maminaw Ug Musika,44100,2,16,167067,3.79,668312,0.0668,0.0109
+121_init_kaayo_karung_adlawa.wav,Init Kaayo Karung Adlawa,44100,2,16,156187,3.54,624792,0.0759,0.0125
+122_unsay_imong_ganahan_kanon.wav,Unsay Imong Ganahan Kanon,44100,2,16,144667,3.28,578712,0.0682,0.0112
+123_wala_pako_kasulod_sa_sinehan.wav,Wala Pako Kasulod Sa Sinehan,44100,2,16,133147,3.02,532632,0.2432,0.026
+124_unsay_imong_ganahan_nga_adlaw_sa_semana.wav,Unsay Imong Ganahan Nga Adlaw Sa Semana,44100,2,16,202267,4.59,809112,0.1091,0.0157
